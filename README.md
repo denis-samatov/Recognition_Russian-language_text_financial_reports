@@ -58,7 +58,7 @@
 
    - Результаты представлены на рисунках 13 и 14.
 
-   ![Горизонтальные линии таблицы]([path/to/image13.png](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_2.png))
+   ![Горизонтальные линии таблицы]([path/to/image13.png](https://github.com/denis-samatov/Recognition_Russian_language_text_financial_reports/blob/main/image_2.png))
 
    ![Вертикальные линии таблицы](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_3.png)
 

@@ -58,7 +58,7 @@
 
    - Результаты представлены на рисунках 13 и 14.
 
-   ![Горизонтальные линии таблицы]([path/to/image13.png](https://github.com/denis-samatov/Recognition_Russian_language_text_financial_reports/blob/main/image_2.png))
+   ![Горизонтальные линии таблицы](https://github.com/denis-samatov/Recognition_Russian_language_text_financial_reports/blob/main/image_2.png)
 
    ![Вертикальные линии таблицы](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_3.png)
 
@@ -96,6 +96,9 @@
 
    - Параметр перехода (в данном случае, 10) может потребовать настройки в зависимости от характеристик таблиц.
 
+![Замеры точности](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_4.png)
+
+
 ## Оценка точности работы программы
 
 Для оценки точности работы программы предлагается сравнивать результаты, полученные программой, с ручным вводом информации. Точность оценивается на основе следующих параметров:
@@ -114,7 +117,7 @@
 
 где \(N\) – число распознанных страниц с таблицей, \(t_общ\) – общее время распознавания всех страниц.
 
-![Замеры точности]([path/to/image14.png](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_5.png))
+![Замеры точности](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_5.png)
    
 ### Примерный порядок действий:
 

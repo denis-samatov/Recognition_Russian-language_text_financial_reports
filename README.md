@@ -34,7 +34,7 @@
 
    - Эти шаги выполняются для обеспечения точности распознавания контуров и текста.
      
-   ![Таблица](path/to/image14.png)
+   ![Таблица](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_1.png)
    
 4. **Определение контуров таблицы:**
    - Результат фильтрации дает двоичное изображение, что позволяет применять морфологические операции.
@@ -58,9 +58,9 @@
 
    - Результаты представлены на рисунках 13 и 14.
 
-   ![Горизонтальные линии таблицы](path/to/image13.png)
+   ![Горизонтальные линии таблицы]([path/to/image13.png](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_2.png))
 
-   ![Вертикальные линии таблицы](path/to/image14.png)
+   ![Вертикальные линии таблицы](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_3.png)
 
    - Координаты пересечений линий определяются и сортируются.
 
@@ -114,7 +114,7 @@
 
 где \(N\) – число распознанных страниц с таблицей, \(t_общ\) – общее время распознавания всех страниц.
 
-![Замеры точности](path/to/image14.png)
+![Замеры точности]([path/to/image14.png](https://github.com/denis-samatov/Recognition_Russian-language_text_financial_reports/blob/main/image_5.png))
    
 ### Примерный порядок действий:
 

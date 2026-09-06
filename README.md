@@ -33,8 +33,8 @@ $env:TESSERACT_CMD = "C:\Program Files\Tesseract-OCR\tesseract.exe"
 ### Installation
 
 ```sh
-git clone https://github.com/denis-samatov/recognition_russian_financial_reports.git
-cd recognition_russian_financial_reports
+git clone https://github.com/denis-samatov/recognition-russian-financial-reports.git
+cd recognition-russian-financial-reports
 pip install -e .
 ```
 
@@ -61,7 +61,7 @@ The script processes the input file in the following steps:
     - The script identifies the horizontal and vertical lines of the table to determine the cell coordinates.
 
     <div align="center">
-        <img src="https://github.com/denis-samatov/recognition_russian_financial_reports/blob/main/image_1.png" alt="Table Image">
+        <img src="https://github.com/denis-samatov/recognition-russian-financial-reports/blob/main/image_1.png" alt="Table Image">
     </div>
 
 3.  **Data Extraction:**
@@ -69,8 +69,8 @@ The script processes the input file in the following steps:
     - The text from each cell is recognized using the Tesseract OCR engine.
 
     <div align="center">
-        <img src="https://github.com/denis-samatov/recognition_russian_financial_reports/blob/main/image_2.png" alt="Horizontal Table Lines">
-        <img src="https://github.com/denis-samatov/recognition_russian_financial_reports/blob/main/image_3.png" alt="Vertical Table Lines">
+        <img src="https://github.com/denis-samatov/recognition-russian-financial-reports/blob/main/image_2.png" alt="Horizontal Table Lines">
+        <img src="https://github.com/denis-samatov/recognition-russian-financial-reports/blob/main/image_3.png" alt="Vertical Table Lines">
     </div>
 
 4.  **CSV Generation:**
